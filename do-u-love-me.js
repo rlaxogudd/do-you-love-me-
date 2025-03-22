@@ -2,7 +2,6 @@ const container = document.querySelector('.container');
 const question = document.querySelector('.question');
 const yesButton = document.querySelector('.yes-button');
 const noButton = document.querySelector('.no-button');
-const catMeme = document.querySelector('.cat-image');
 
 const containerRect = container.getBoundingClientRect();
 const noButtonRect = noButton.getBoundingClientRect(); 
